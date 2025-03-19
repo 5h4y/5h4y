@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![a shifty little blue USPS mailbox](/images/mailbox.gif)
 <!--
 **5h4y/5h4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
