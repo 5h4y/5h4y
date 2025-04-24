@@ -4,12 +4,12 @@
   <img src="/images/spam.png" alt="spam" height="40" style="margin-right: 10px;">
   <img src="/images/kermit_yeehawq.png" alt="kermit cowboy" height="40">
   <img src="/images/chess_knight.png" alt="chess horsey" height="40">
-  <img src="/images/atlanta.png" alt="kermit cowboy" height="40">
+  <img src="/images/atlanta.png" alt="fila" height="40">
   <img src="/images/tamago-sushi.gif" alt="my grandma makes the best tamagoyaki" height="40">
   <img src="/images/bike-shed.png" alt="a bike emerging into the morning from its beautiful shed home" height="40">
-  <img src="/images/espresso_shot.png" alt="kermit cowboy" height="40">
-  <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="40">
-  <img src="/images/marta.png" alt="kermit cowboy" height="40">
+  <img src="/images/espresso_shot.png" alt="doubleshot pls" height="40">
+  <img src="/images/ghibli-noface.png" alt="noface from spirited away" height="40">
+  <img src="/images/marta.png" alt="marta is smarta" height="40">
   <img src="/images/vinyl_spinning.gif" alt="it's a spinning vinyl record" height="40">
   <img src="/images/honk.png" alt="untitled goose honking" height="40">
   <img src="/images/raspberry_pi.png" alt="I don't even like pie that much but this one is raspberry" height="40">
