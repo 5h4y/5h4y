@@ -3,6 +3,7 @@
   <img src="/images/partywizard.gif" alt="party wizard" height="40" style="margin-right: 10px;">
   <img src="/images/spam.png" alt="spam" height="40" style="margin-right: 10px;">
   <img src="/images/kermit_yeehawq.png" alt="kermit cowboy" height="40">
+  <img src="/images/chess_knight.png" alt="chess horsey" height="40">
   <img src="/images/atlanta.png" alt="kermit cowboy" height="40">
   <img src="/images/tamago-sushi.gif" alt="my grandma makes the best tamagoyaki" height="40">
   <img src="/images/bike-shed.png" alt="a bike emerging into the morning from its beautiful shed home" height="40">
