@@ -3,6 +3,16 @@
   <img src="/images/partywizard.gif" alt="party wizard" height="50" style="margin-right: 10px;">
   <img src="/images/spam.png" alt="spam" height="50" style="margin-right: 10px;">
   <img src="/images/kermit_yeehawq.png" alt="kermit cowboy" height="50">
+  <img src="/images/atlanta.png" alt="kermit cowboy" height="50">
+  <img src="/images/cargobike.png" alt="kermit cowboy" height="50">
+  <img src="/images/marta.png" alt="kermit cowboy" height="50">
+  <img src="/images/espresso_shot.png" alt="kermit cowboy" height="50">
+  <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="50">
+  <img src="/images/goose.png" alt="kermit cowboy" height="50">
+  <img src="/images/hhhehehe.gif" alt="kermit cowboy" height="50">
+  <img src="/images/marceline.png" alt="kermit cowboy" height="50">
+  <img src="/images/sootsprite.png" alt="kermit cowboy" height="50">
+  <img src="/images/electric-guitar.gif" alt="kermit cowboy" height="50">
 </p>
 
 <!--
