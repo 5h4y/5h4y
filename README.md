@@ -4,6 +4,7 @@
   <img src="/images/spam.png" alt="spam" height="40" style="margin-right: 10px;">
   <img src="/images/kermit_yeehawq.png" alt="kermit cowboy" height="40">
   <img src="/images/atlanta.png" alt="kermit cowboy" height="40">
+  <img src="/images/tamago-sushi.gif" alt="my grandma makes the best tamagoyaki" height="40">
   <img src="/images/bike-shed.png" alt="a bike emerging into the morning from its beautiful shed home" height="40">
   <img src="/images/espresso_shot.png" alt="kermit cowboy" height="40">
   <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="40">
