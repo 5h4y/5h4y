@@ -10,7 +10,6 @@
   <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="50">
   <img src="/images/goose.png" alt="kermit cowboy" height="50">
   <img src="/images/hhhehehe.gif" alt="kermit cowboy" height="50">
-  <img src="/images/soot_sprite.png" alt="kermit cowboy" height="50">
   <img src="/images/electric-guitar.gif" alt="kermit cowboy" height="50">
 </p>
 
