@@ -1,9 +1,31 @@
-![a shifty little blue USPS mailbox](/images/mailbox.gif)
-![a party wizard, because I am a wizard who likes to party](/images/partywizard.gif)
-![spam: it's delicous](/images/spam.png)
-![kermit in a cowboy hat ready for anything](/images/kermit_yeehawq.png)
+<p align="center">
+  <img src="/images/mailbox.gif" alt="mailbox" height="50" style="margin-right: 10px;">
+  <img src="/images/partywizard.gif" alt="party wizard" height="50" style="margin-right: 10px;">
+  <img src="/images/spam.png" alt="spam" height="50" style="margin-right: 10px;">
+  <img src="/images/kermit_yeehawq.png" alt="kermit cowboy" height="50">
+</p>
+
 <!--
 **5h4y/5h4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+X-Originating-IP: 127.0.0.1  
+X-Deliverability-Engine: ShayBot/1.0  
+X-Feedback-Loop: disabled  
+X-Spam-Score: 0.0 🧼  
+X-Mailer: papercuts/CLI  
+X-Message-ID: <blue.mailbox.eyeing.u@hireshay.com>  
+X-Reputation-Score: 98 (human-verified)  
+X-Authed-By: SPF, DKIM, and vibes  
+X-Bounce-Handler: /dev/null  
+X-RateLimit-Remaining: ∞  
+X-Failure-Reason: recipient emotionally unavailable 
+X-Passed-DKIM: true  
+X-Passed-Intuition: questionable  
+X-MX-Preference: 🐌  
+X-Retry-Policy: backoff(5m, 15m, 30m, give up)  
+X-Emotion-Header: 😬  
+X-Human-Readability: guaranteed  
+
 
 Here are some ideas to get you started:
 
