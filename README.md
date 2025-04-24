@@ -1,4 +1,7 @@
 ![a shifty little blue USPS mailbox](/images/mailbox.gif)
+![a party wizard, because I am a wizard who likes to party](/images/partywizard.gif)
+![spam: it's delicous](/images/spam.png)
+![kermit in a cowboy hat ready for anything](/images/kermit_yeehawq.png)
 <!--
 **5h4y/5h4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
