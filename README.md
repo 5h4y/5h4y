@@ -9,7 +9,7 @@
   <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="40">
   <img src="/images/marta.png" alt="kermit cowboy" height="40">
   <img src="/images/electric-guitar.gif" alt="kermit cowboy" height="40">
-  <img src="/images/goose.png" alt="untitled goose honking" height="40">
+  <img src="/images/honk.png" alt="untitled goose honking" height="40">
 </p>
 
 <!--
