@@ -13,6 +13,7 @@
   <img src="/images/vinyl_spinning.gif" alt="it's a spinning vinyl record" height="40">
   <img src="/images/honk.png" alt="untitled goose honking" height="40">
   <img src="/images/raspberry_pi.png" alt="I don't even like pie that much but this one is raspberry" height="40">
+  <img src="/images/books.png" alt="it's just...books" height="40">
 </p>
 
 <!--
