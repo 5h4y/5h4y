@@ -8,7 +8,7 @@
   <img src="/images/espresso_shot.png" alt="kermit cowboy" height="40">
   <img src="/images/ghibli-noface.png" alt="kermit cowboy" height="40">
   <img src="/images/marta.png" alt="kermit cowboy" height="40">
-  <img src="/images/electric-guitar.gif" alt="kermit cowboy" height="40">
+  <img src="/images/vinyl_spinning.gif" alt="it's a spinning vinyl record" height="40">
   <img src="/images/honk.png" alt="untitled goose honking" height="40">
 </p>
 
